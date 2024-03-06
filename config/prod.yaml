@@ -5,6 +5,5 @@ http_server:
   timeout: 4s
   idle_timeout: 30s
   user: "LDmitryLD"
-logger:
-  level: "info"  
+ 
 
